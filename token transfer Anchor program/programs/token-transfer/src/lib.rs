@@ -2,7 +2,7 @@ use anchor_lang::prelude::*;
 use anchor_spl::token_2022::{self, TransferChecked};
 use anchor_spl::token_interface::{Mint, Token2022, TokenAccount};
 
-declare_id!("G73rpG7HAaPzJtEH3pzpkrY21t8rdMKkUv6Hry3GTcqs");
+declare_id!("J8YgpQ4n6mzE9FdiMECZtRPXUKewue1mw76VADRg5jpe");
 
 #[program]
 pub mod token2022_transfer {
