@@ -5,7 +5,7 @@ use anchor_spl::token_interface::{Mint, Token2022, TokenAccount};
 declare_id!("J8YgpQ4n6mzE9FdiMECZtRPXUKewue1mw76VADRg5jpe");
 
 #[program]
-pub mod token2022_transfer {
+pub mod spl_token_transfer {
      use super::*;
 
     pub fn transfer_token2022(ctx: Context<TransferToken>, amount: u64) -> Result<()> {

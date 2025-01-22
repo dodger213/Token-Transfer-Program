@@ -55,5 +55,3 @@ This is an anchor project for token transfer contract(Rust).
     anchor deploy
     ```
 
-## Auther
-- [Telegram](https://t.me/BTC0in23)
