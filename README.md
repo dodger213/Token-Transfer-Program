@@ -7,7 +7,7 @@ This is a frontend project for solana token transfer contract(Rust).
 - First, set your rust program id in `src/components/TokenTransfer.tsx`
 
     ```bash
-    const PROGRAM_ID = "G73rpG7HAaPzJtEH3pzpkrY21t8rdMKkUv6Hry3GTcqs";
+    const PROGRAM_ID = "J8YgpQ4n6mzE9FdiMECZtRPXUKewue1mw76VADRg5jpe";
     ```
 
 - Second, set your rust program idl in `src/idl/spl_token_transfer.json`
